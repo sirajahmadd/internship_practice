@@ -1,0 +1,20 @@
+s1:start
+s2:declare ch
+s3:read ch
+s4:if (ch >=a && ch<=z) AND (ch>= A && ch<=Z) 
+  display
+        "its a character"
+  else if (ch >=0 && ch <= 9)
+  display
+        "its a number"
+  else 
+  display
+        "its a special character"
+s5:stop
+
+
+
+
+
+
+          

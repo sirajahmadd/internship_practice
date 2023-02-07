@@ -1,0 +1,8 @@
+find area of square
+
+s1:start
+s2:declare side, area
+s3:read side
+s4:area= side*side
+s5:display area
+s6:stop

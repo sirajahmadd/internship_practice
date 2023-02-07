@@ -1,0 +1,20 @@
+s1:start
+s2:declare s1,s2,s3,s4,s5,gain,per
+s3:read s1,s2,s3,s4,s5
+s4:perform 
+          gain=s1+s2+s3+s4+s5
+          display gain
+s5:perform
+          per=(gain/total marks)*100
+          display per
+s6: if (per>=90 $$ per<=100)
+        display "grade A"
+    else if (per>=80 $$ per<=89)
+        display" grade B"
+    else if (per>=70 $$ per<=79)
+        display" grade c"
+    else if (per>=60 $$ per<=69)
+        display" grade d"
+    else
+        display "fail"
+s7:stop

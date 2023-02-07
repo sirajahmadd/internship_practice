@@ -1,0 +1,10 @@
+s1:start
+s2:declare num
+s3: read num
+s4:if num%5==0
+  display
+        "divisible by 5"
+  else
+  display
+        "not divisible by 5"
+s5:stop
