@@ -1,0 +1,13 @@
+s1: start
+s2: go to the library
+s3: select the racks you want to arrange the books
+s4: number your racks to be arranged (priority)
+s5: select the branch 
+s6: collect all the books related to that branch
+s7: seperate the books based on the topic or subject or module
+s8: arrange the books of particular subject
+    > based on the names of the book (alphabetical order) OR
+    > based on the size and thickness of the book OR
+    > based on the author
+s9: repeat step 8 for rest all subjects or branchs
+s10:stop

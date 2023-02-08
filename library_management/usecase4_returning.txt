@@ -1,0 +1,20 @@
+s1: start
+s2: go to the library on the given return date
+s3: check if you have book to be returned
+    if you have it then
+        get inside the library
+    else
+        return back with the book
+s4: go to the librarian
+s5: return ur book
+s6: task to be preformed by the librarian:
+    >check if the book is damaged
+    >check if the book if it has seal of the college
+    >check the return date
+    if the return date is not same as mentioned :
+        put fine based on the number of days
+    else 
+        dont put the fine lol
+s7: return the card to the student 
+s8: take the sign of the student
+s9: stop

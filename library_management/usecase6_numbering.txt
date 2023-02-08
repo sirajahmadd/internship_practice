@@ -1,0 +1,13 @@
+s1:start
+s2:go to the library
+s3:separate all the books
+    either:
+      >based on branch
+      >based on year/class
+      >based on the date of issuing books
+s4:choose anyone among those three options
+s5: start numbering the books
+s6: do mention the branch while numbering
+    (like for ex: csB1, ecB1)
+s7:finish numbering of all books
+s8:stop

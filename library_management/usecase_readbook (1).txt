@@ -1,0 +1,6 @@
+s1: start
+s2: go to the library
+s3: get the help from librarian in finding book
+s4: select the book you want to study
+s5: find a chair and start reading the book
+s6:stop

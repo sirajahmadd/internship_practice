@@ -1,0 +1,15 @@
+s1:start
+s2:go to the library
+s3: check your library card
+s4: if you have the card
+      go inside to borrow the book
+    else
+      comeback again with the card
+s5:select the book you want
+s6:inform the librarian:
+    show your card
+    enter the borrowing date
+    mention the returning date
+    put your signatue
+s7:get back to your place
+s8:stop

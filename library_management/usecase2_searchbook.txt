@@ -1,0 +1,9 @@
+s1: start
+s2: go to the library
+s3: ask the librarian for the book you are looking for
+s4: go to the rack which the librarian told you to
+s5: search for the book
+s6: if you find the book
+    pick and choose a place to sit and start reading the book
+s7:else inform the librarian
+s8:stop
