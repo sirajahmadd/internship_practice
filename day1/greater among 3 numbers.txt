@@ -1,0 +1,9 @@
+s1:start
+s2: declaire a,b,c
+s3: if a>=b AND a>=c
+    display "a is greater"
+    else if b>=a AND b>=c
+    display "b is greater"
+    else
+    display " c is greater"
+s4:stop

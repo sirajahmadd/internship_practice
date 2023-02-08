@@ -1,0 +1,8 @@
+s1:start
+s2:declare num
+s3:read num
+s4: if num>0
+    display "its a positive"
+    else
+    display "its a negetive"
+s5:stop

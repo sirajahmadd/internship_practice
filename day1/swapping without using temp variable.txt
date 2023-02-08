@@ -1,0 +1,10 @@
+
+s1: start
+s2: declare a,b
+s3: assign a=10 b=20
+s4: perform 
+    a= a+b
+    b=a-b
+    a=a-b
+s5: display a and b
+s6:stop

@@ -1,0 +1,10 @@
+s1:start
+s2:declare ch
+s3: read ch
+s4: if ch=='t'
+  display
+        "its a alphabet t"
+  else
+  display
+        "its not t"
+s5: stop

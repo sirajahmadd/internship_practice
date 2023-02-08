@@ -1,0 +1,10 @@
+s1: start
+s2:declare ch
+s3: read ch
+s4: if ch=='a' OR ch=='e' OR ch=='i' OR ch=='o'OR ch=='u'
+    display
+          "its vowel"
+    else
+    display
+          "its a consonent"
+s5:stop

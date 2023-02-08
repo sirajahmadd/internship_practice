@@ -1,0 +1,19 @@
+swapping numbers with temp variable
+
+s1:start
+s2:declare a,b,temp
+s3: assign a=10,b=20
+s4: let temp=a
+s5: let a=b
+s6: b=temp
+s7: display a and b
+s8: stop
+
+s1: start
+s2: declare weight, age
+s3: read age and weight
+s4: if age>=18 AND weight>=50
+    display "eligible to donate"
+    else
+        "not eligible to donate blood"
+s5:stop
