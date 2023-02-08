@@ -1,0 +1,12 @@
+s1: start
+s2: declare i,n
+s3: read n
+s4: initialize i=1
+s5: check i with n
+    if (i<=n)
+    then go to step 6
+    else go to step 7
+s6: if(i%2==0)
+    print i
+    increament i and move to step s5
+s7: stop

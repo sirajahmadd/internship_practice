@@ -1,0 +1,17 @@
+s1: start
+s2:declare i,n,factors
+s3:read n
+s4:initialize i=1 and factors=0
+s5: check i with n
+    if (i<=n/2) then 
+      go to step 6
+    else 
+      go to step 7
+s6: if (n%i==0) 
+    perform:
+          factors= factors+i
+          increament i
+          go to step 5
+s7:display factors
+s8:stop
+

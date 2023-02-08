@@ -1,0 +1,15 @@
+s1: start
+s2:declare i,n
+s3: read n
+s4:initialize i=1
+s5: let var sum=0
+s6: check i with n 
+    if (i<=n)  then go to step 6
+    else go to step 7
+s7: perform
+    sum=sum+i
+
+s8: increament i
+    move to step6
+s9: print sum
+s10:stop
