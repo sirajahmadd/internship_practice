@@ -1,0 +1,11 @@
+#coomennt
+s1: start
+s2: declare basic_sal, gross_sal
+s3: read basic_sal
+    if (basic_sal<=10000)
+    gross_sal=basic_sal+20%+80%
+    else if (basic_sal <= 20000)
+    gross_sal=basic_sal+25%+90%
+    else
+    gross_sal=basic_sal+30%+95%
+s4:stop

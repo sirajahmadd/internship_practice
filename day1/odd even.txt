@@ -1,0 +1,10 @@
+s1: start
+s2:declare num
+s3: read num
+s4:if num%2=0
+    display "even number"
+    else if num=0
+    display "its zero"
+    else
+    display "odd number"
+s5:stop
