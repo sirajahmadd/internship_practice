@@ -1,0 +1,16 @@
+s1: start
+s2: check if there is any customer
+    if yes then
+      provide them the MENUE
+    else
+      ignore
+s3: provide the water to the customer
+s4: wait until the customer decides from the menue
+s5: collect the order from the customer
+s6: pass the order to the cooking department
+s7: deliver the order to the customer once its ready
+s8: ready to collect new order from customer
+s9: once it is confirmed that no more orders will be given by a customer
+    give them the bill of amount to be paid
+s10: make sure the customer pays the bill
+s11: stop

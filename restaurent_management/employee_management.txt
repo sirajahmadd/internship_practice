@@ -1,0 +1,23 @@
+s1: start
+s2: provide the form to be filled by employee if there is any
+s3: take the interview of the employee
+s4: if he/she is perfect for the work you were looking for then
+      keep him/her for the job
+     else
+      reject him/her
+s5: once the employee is choosen
+    provide the training for them
+    once the training is completed
+      go to step 6
+s6: allocate them with the work they are suitable for 
+s7: see if they are working properly or not
+    if not 
+      warn them to do it properly
+    still they behave the same then
+      remove them from the job
+s8: if they work properly as expected AND 
+    come on time for the duty every day
+      pay the salary every month
+s9: increase the salary based on the experience 
+s10: stop
+    

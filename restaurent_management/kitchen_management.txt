@@ -1,0 +1,11 @@
+s1: start
+s2: check the number of members (chef)
+s3: assign the work for each member OR distribute the work among all the members
+s4: provide the ingredients and all the requirements for each member
+s5: provide the menu to be cooked on a particular day
+s6: once the order is received:
+    pass the order to the respective chef
+    prepare the food according to the order 
+    and deliver it to the waiter 
+s7: keep the food ready for fast service
+s8: stop
