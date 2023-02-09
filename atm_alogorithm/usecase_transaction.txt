@@ -1,0 +1,32 @@
+s1:start
+s2:look for the nearest atm
+s3:look for the particular branch of the atm
+s4:check if you have the atm card
+s5: check if card is expired or not
+    if expired
+      visit the bank and request for a new card
+    else
+      visit the required atm
+s6:check if atm is empty
+    if not wait for your turn
+s7: check if the atm is properly working or not (or check if the server is down)
+s8:insert the atm card
+    >wait for machine to read the card
+    >pull out ur card once its read
+    >choose the language
+    >enter your pin
+    >select the following option
+      1*withdrawal OR
+      2*balance enquiry
+      (if option 1,go to step 9 )
+      (if option 2, go to step 10)
+s9:enter the amount you want
+      hit enter button
+      wait for few seconds and collect the cash
+s10:select the account
+      *current OR
+      *saving
+      read the balance and recieve the receipt
+s11: hit cancel button or exit button once you are done with using atm for the safety
+s12:stop
+    
