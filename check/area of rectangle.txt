@@ -1,8 +1,0 @@
-find area of rectangle
-
-s1: start
-s2:declare l,b,area
-s3:read l,b
-s4:area=l*b
-s5:display area 
-s6:stop
