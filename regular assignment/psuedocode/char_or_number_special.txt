@@ -1,0 +1,10 @@
+BEGIN
+     DECLARE ch
+     READ ch
+     IF (ch>='a')AND(ch<='z')
+              DISPLAY "character"
+     ELSE IF (ch>=0)AND (ch<=9) THEN
+              DISPLAY "number"
+     ELSE
+                DISPLAY "special character"
+END 

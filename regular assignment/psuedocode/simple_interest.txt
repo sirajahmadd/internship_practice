@@ -1,0 +1,6 @@
+BEGIN
+  DECLARE principle,time,rate, SI
+  READ principle,time,rate
+  CALCULATE SI=(principle*time*rate)/100
+  DISPLAY SI
+END

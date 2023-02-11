@@ -1,0 +1,6 @@
+BEGIN
+  DECLARE h,b,side,perimeter;
+  READ h,b,side;
+  CALCULATE perimeter=h+b+side;
+  DISPLAY perimeter;
+END

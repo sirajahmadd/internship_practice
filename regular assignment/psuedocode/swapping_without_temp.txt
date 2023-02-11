@@ -1,0 +1,9 @@
+BEGIN
+  DECLARE n1,n2;
+  READ n1,n2;
+  PERFORM:
+          n1=n1+n2;
+          n2=n1-n2;
+          n1=n1-n2;
+  DISPLAY n1,n2;
+END

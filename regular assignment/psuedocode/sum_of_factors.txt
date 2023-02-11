@@ -1,0 +1,12 @@
+BEGIN
+    DECLARE n,i,sum;
+    READ n
+    INTIALISE i=1,sum=0;
+    WHILE (i<=n/2) DO
+             IF n%i==0 THEN
+                     CALCULATE sum=sum+i
+                     INCREAMENT i
+              END IF
+            DISPLAY sum
+      END WHILE
+END 

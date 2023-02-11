@@ -1,0 +1,8 @@
+BEGIN
+  DECLARE n1,n2,temp;
+  READ n1,n2;
+  INITIALISE temp=n1;
+              n1=n2;
+              n2=temp;
+  DISPLAY n1,n2;
+END

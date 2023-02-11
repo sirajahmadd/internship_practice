@@ -1,0 +1,8 @@
+BEGIN
+  DECLARE ch;
+  READ ch;
+  IF ch=='a' OR ch=='e' OR ch=='i' OR ch=='o' OR ch=='u' THEN
+    DISPLAY "vowel"; ELSE
+    DISPLAY "consonant";
+  END IF
+END

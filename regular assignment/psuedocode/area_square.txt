@@ -1,0 +1,6 @@
+ BEGIN
+     DECLARE side,area;
+     READ side;
+     CALCULATE area=side*2;
+     DISPALY area;
+END

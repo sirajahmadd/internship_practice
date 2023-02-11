@@ -1,0 +1,8 @@
+BEGIN
+  DECLARE ch;
+  READ ch;
+  IF ch=='t'
+    DISPLAY "yes"; ELSE
+    DISPLAY "other alphabet";
+  END IF
+END

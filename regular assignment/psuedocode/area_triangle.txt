@@ -1,0 +1,8 @@
+BEGIN
+  DECLARE base,height,area;
+  READ base,height;
+  CALCULATE area=1/2(base*height);
+  DISPLAY area;
+END
+
+  

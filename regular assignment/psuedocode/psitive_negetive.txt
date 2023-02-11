@@ -1,0 +1,8 @@
+BEGIN
+  DECLARE n1
+  READ n1 
+  IF n1>0 THEN
+    DISPLAY "positive number" ELSE
+    DISPLAY "negetive number"
+  END IF
+END
