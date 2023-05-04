@@ -1,3 +1,38 @@
+// PROJECT NAME- AAROGYA KENDRA HOSPITAL MANAGEMENT
+
+// PROJECT DISRIPTION:
+// I created an application for my hospital, which helps me to STORE  the details instead of wrting it in book.
+// This application takes all the details of patient like 
+// *patient name
+// *patient address
+// *patient mobile
+// *patient adhar card
+// *Guardian name
+// *Guardian mobile number  etc
+// The application also validates:
+// >>mobile number(10 digits)
+// >>adhar number(12 digits)
+
+// We can retrieve the patient details any time we want.
+// It also update the status of recovery . like it removes the patient details once he is recovered and ready to be discharged.
+// It is also easy to search the particular patient by name,city,address etc. To make it more simple it provides unique ID to patient which makes it easy to find out the particular patient.
+
+// CONCEPTS/TECHNOLOGY  INCLUDED:
+
+// I have used concepts like:
+// >Exception handling
+// >Oops concept 
+// >ArrayLists
+// >Collections
+
+
+// The operations included in this applications are:
+
+// 1)Add Patient
+// 2)search Patient
+// 3)Remove patient
+// 4)display patient
+
 import java.util.*;
 
 class Patient {
